@@ -12,6 +12,7 @@ module.exports = {
     },
 
     colos: {
+      transparent: 'transparent',
       black: '#000000',
       white: '#FFFFFF',
       gray: {
